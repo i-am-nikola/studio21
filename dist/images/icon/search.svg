@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2{stroke:#d6b571}.cls-3{filter:url(#Rectangle_4)}
+        </style>
+        <filter id="Rectangle_4" width="48" height="48" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Group_136" data-name="Group 136" transform="translate(-1481.214 -32)">
+        <g id="Group_125" data-name="Group 125" transform="translate(.214 -189)">
+            <g class="cls-3" transform="translate(1481 221)">
+                <rect id="Rectangle_4-2" width="30" height="30" class="cls-1" data-name="Rectangle 4" rx="3" transform="translate(9 6)"/>
+            </g>
+            <g id="Group_13" data-name="Group 13" transform="translate(1497.869 235.393)">
+                <g id="Group_11" data-name="Group 11">
+                    <g id="Group_10" data-name="Group 10">
+                        <path id="Path_295" d="M6765.088 785.8a5.729 5.729 0 1 1 5.729-5.729 5.735 5.735 0 0 1-5.729 5.729zm0-10.782a5.053 5.053 0 1 0 5.053 5.054 5.059 5.059 0 0 0-5.053-5.05z" class="cls-2" data-name="Path 295" transform="translate(-6759.359 -774.346)"/>
+                    </g>
+                </g>
+                <g id="Group_12" data-name="Group 12" transform="translate(9.345 9.344)">
+                    <path id="Path_296" d="M6777.489 792.813a.337.337 0 0 1-.239-.1l-4.493-4.492a.338.338 0 1 1 .479-.479l4.492 4.492a.338.338 0 0 1-.238.578z" class="cls-2" data-name="Path 296" transform="translate(-6772.658 -787.644)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

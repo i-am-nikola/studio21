@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Roboto-Regular;
+  src: url('../font/Roboto-Regular.ttf');
+}
+
+@font-face {
+  font-family: Futura;
+  src: url('../font/Futura\ Heavy\ font.ttf');
+}
+
+@font-face {
+  font-family: FuturaBT;
+  src: url('../font/futura\ medium\ bt.ttf');
+}
+
+@font-face {
+  font-family: FuturaLight;
+  src: url('../font/futura\ light\ bt.ttf');
+}
+
+@media (min-width: 1200px){
+  .container {
+      max-width: 1530px;
+  }
+}
