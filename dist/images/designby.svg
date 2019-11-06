@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="14.277" viewBox="0 0 67 14.277">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{clip-path:url(#clip-path)}.cls-3{clip-path:url(#clip-path-2)}.cls-4{clip-path:url(#clip-path-3)}.cls-5{clip-path:url(#clip-path-4)}.cls-6{clip-path:url(#clip-path-5)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Clip_2" d="M4.9 11H.534A.563.563 0 0 1 0 10.413V.586A.562.562 0 0 1 .534 0H4.9a4.932 4.932 0 0 1 3.64 1.609A5.606 5.606 0 0 1 10 5.5a5.6 5.6 0 0 1-1.465 3.891A4.929 4.929 0 0 1 4.9 11zM2.858 3.055v4.89H5A2.311 2.311 0 0 0 7.143 5.5 2.312 2.312 0 0 0 5 3.055z" class="cls-1" data-name="Clip 2"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Clip_5" d="M0 11L2.774.423A.538.538 0 0 1 3.281 0H6.72a.538.538 0 0 1 .506.423L10 11H7.459a.538.538 0 0 1-.506-.422L6.64 9.385H4.187l.691-2.633a.537.537 0 0 1 .5-.423h.453L5 3.056l-1.95 7.52a.539.539 0 0 1-.506.424z" class="cls-1" data-name="Clip 5"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Clip_8" d="M0 11L2.774.423A.537.537 0 0 1 3.28 0h3.439a.537.537 0 0 1 .506.423L10 11H7.458a.537.537 0 0 1-.5-.422l-.319-1.193H4.186l.691-2.633a.538.538 0 0 1 .506-.423h.453L5 3.056l-1.95 7.52a.539.539 0 0 1-.507.424z" class="cls-1" data-name="Clip 8"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Clip_11" d="M7.142 6.516V.587A.562.562 0 0 1 7.676 0h1.79A.562.562 0 0 1 10 .587V11H6.361a.529.529 0 0 1-.471-.311L2.857 4.414v6a.562.562 0 0 1-.534.586H0V.587A.562.562 0 0 1 .533 0H3.64a.529.529 0 0 1 .47.309z" class="cls-1" data-name="Clip 11"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="Clip_14" d="M24.183 14h-4.642a.546.546 0 0 1-.494-.585V3.627a.545.545 0 0 1 .494-.584h4.637a2.539 2.539 0 0 1 1.845.805A3.525 3.525 0 0 1 27 6.369a3.567 3.567 0 0 1-.67 2.152 3.556 3.556 0 0 1 .67 2.046 3.7 3.7 0 0 1-.826 2.46 2.533 2.533 0 0 1-1.991.973zm-2.56-4.7v1.653h2.063a.584.584 0 0 0 .467-.245.9.9 0 0 0 .2-.581.908.908 0 0 0-.2-.583.587.587 0 0 0-.467-.244h-2.063zm0-3.217v1.656h2.063a.584.584 0 0 0 .467-.243.967.967 0 0 0 0-1.165.585.585 0 0 0-.467-.244h-2.063zM18.181 14h-7.147a.546.546 0 0 1-.5-.584V3.628a.546.546 0 0 1 .5-.585h7.147l-.761 3.044h-4.23V7h2.482l-.741 3.043h-1.742v.913h4.991V14zM6.7 14H4.237a.517.517 0 0 1-.475-.42L2.536 8.621l-1.164 4.707L0 7.716l1.052-4.252a.509.509 0 0 1 .475-.421h2.02a.517.517 0 0 1 .475.421L5.467 9.3 7.672.419A.51.51 0 0 1 8.148 0h2.39L7.171 13.579A.511.511 0 0 1 6.7 14z" class="cls-1" data-name="Clip 14"/>
+        </clipPath>
+    </defs>
+    <g id="Group_153" data-name="Group 153" transform="translate(-1571 -6408)">
+        <g id="Group_4" data-name="Group 4" transform="translate(1571 6408)">
+            <path id="Clip_2-2" d="M4.9 11H.534A.563.563 0 0 1 0 10.413V.586A.562.562 0 0 1 .534 0H4.9a4.932 4.932 0 0 1 3.64 1.609A5.606 5.606 0 0 1 10 5.5a5.6 5.6 0 0 1-1.465 3.891A4.929 4.929 0 0 1 4.9 11zM2.858 3.055v4.89H5A2.311 2.311 0 0 0 7.143 5.5 2.312 2.312 0 0 0 5 3.055z" class="cls-1" data-name="Clip 2" transform="translate(0 3)"/>
+            <g id="Group_4-2" class="cls-2" data-name="Group 4" transform="translate(0 3)">
+                <path id="Fill_1" d="M0 0h17v19H0z" class="cls-1" data-name="Fill 1" transform="translate(-4 -3.723)"/>
+            </g>
+            <path id="Clip_5-2" d="M0 11L2.774.423A.538.538 0 0 1 3.281 0H6.72a.538.538 0 0 1 .506.423L10 11H7.459a.538.538 0 0 1-.506-.422L6.64 9.385H4.187l.691-2.633a.537.537 0 0 1 .5-.423h.453L5 3.056l-1.95 7.52a.539.539 0 0 1-.506.424z" class="cls-1" data-name="Clip 5" transform="translate(10 3.277)"/>
+            <g id="Group_4-3" class="cls-3" data-name="Group 4" transform="translate(10 3.277)">
+                <path id="Fill_4" d="M0 0h17v19H0z" class="cls-1" data-name="Fill 4" transform="translate(-4 -4)"/>
+            </g>
+            <path id="Clip_8-2" d="M0 11L2.774.423A.537.537 0 0 1 3.28 0h3.439a.537.537 0 0 1 .506.423L10 11H7.458a.537.537 0 0 1-.5-.422l-.319-1.193H4.186l.691-2.633a.538.538 0 0 1 .506-.423h.453L5 3.056l-1.95 7.52a.539.539 0 0 1-.507.424z" class="cls-1" data-name="Clip 8" transform="translate(31 3.277)"/>
+            <g id="Group_4-4" class="cls-4" data-name="Group 4" transform="translate(31 3.277)">
+                <path id="Fill_7" d="M0 0h17v19H0z" class="cls-1" data-name="Fill 7" transform="translate(-3 -4)"/>
+            </g>
+            <path id="Clip_11-2" d="M7.142 6.516V.587A.562.562 0 0 1 7.676 0h1.79A.562.562 0 0 1 10 .587V11H6.361a.529.529 0 0 1-.471-.311L2.857 4.414v6a.562.562 0 0 1-.534.586H0V.587A.562.562 0 0 1 .533 0H3.64a.529.529 0 0 1 .47.309z" class="cls-1" data-name="Clip 11" transform="translate(20 3.277)"/>
+            <g id="Group_4-5" class="cls-5" data-name="Group 4" transform="translate(20 3.277)">
+                <path id="Fill_10" d="M0 0h17v19H0z" class="cls-1" data-name="Fill 10" transform="translate(-3 -4)"/>
+            </g>
+            <path id="Clip_14-2" d="M24.183 14h-4.642a.546.546 0 0 1-.494-.585V3.627a.545.545 0 0 1 .494-.584h4.637a2.539 2.539 0 0 1 1.845.805A3.525 3.525 0 0 1 27 6.369a3.567 3.567 0 0 1-.67 2.152 3.556 3.556 0 0 1 .67 2.046 3.7 3.7 0 0 1-.826 2.46 2.533 2.533 0 0 1-1.991.973zm-2.56-4.7v1.653h2.063a.584.584 0 0 0 .467-.245.9.9 0 0 0 .2-.581.908.908 0 0 0-.2-.583.587.587 0 0 0-.467-.244h-2.063zm0-3.217v1.656h2.063a.584.584 0 0 0 .467-.243.967.967 0 0 0 0-1.165.585.585 0 0 0-.467-.244h-2.063zM18.181 14h-7.147a.546.546 0 0 1-.5-.584V3.628a.546.546 0 0 1 .5-.585h7.147l-.761 3.044h-4.23V7h2.482l-.741 3.043h-1.742v.913h4.991V14zM6.7 14H4.237a.517.517 0 0 1-.475-.42L2.536 8.621l-1.164 4.707L0 7.716l1.052-4.252a.509.509 0 0 1 .475-.421h2.02a.517.517 0 0 1 .475.421L5.467 9.3 7.672.419A.51.51 0 0 1 8.148 0h2.39L7.171 13.579A.511.511 0 0 1 6.7 14z" class="cls-1" data-name="Clip 14" transform="translate(40)"/>
+            <g id="Group_4-6" class="cls-6" data-name="Group 4" transform="translate(40)">
+                <path id="Fill_13" d="M0 0h34v22H0z" class="cls-1" data-name="Fill 13" transform="translate(-3 -3.723)"/>
+            </g>
+        </g>
+    </g>
+</svg>
